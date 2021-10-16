@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+// testing comment
 package org.springframework.samples.petclinic;
 
 import org.springframework.boot.SpringApplication;
